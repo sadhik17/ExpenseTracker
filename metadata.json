@@ -1,0 +1,5 @@
+{
+  "name": "SpendWise AI",
+  "description": "A sophisticated daily expense tracker that leverages Gemini AI to analyze your spending habits and provide personalized financial advice.",
+  "requestFramePermissions": []
+}
